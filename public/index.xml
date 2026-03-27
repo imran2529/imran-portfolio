@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Imran Syed Portfolio</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Imran Syed Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enterprise Data Platform: Snowflake &amp; Medallion Architecture</title>
+      <link>//localhost:1313/projects/medallion-pipeline/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/medallion-pipeline/</guid>
+      <description>Architecting a high-throughput migration and transformation engine for 500M&#43; daily records.</description>
+    </item>
+    <item>
+      <title>Real-Time Event-Driven Data Pipeline</title>
+      <link>//localhost:1313/projects/aws-pipeline/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/aws-pipeline/</guid>
+      <description>Architecting a high-scale Kinesis-to-Redshift streaming pipeline for a US E-commerce client.</description>
+    </item>
+    <item>
+      <title>Automated Data Quality Framework (Snowpark)</title>
+      <link>//localhost:1313/projects/automation/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/automation/</guid>
+      <description>Engineering a Python-native validation engine to replace manual SQL audits.</description>
+    </item>
+    <item>
+      <title>Technical Skills &amp; Expertise</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;-cloud--infrastructure&#34;&gt;☁️ Cloud &amp;amp; Infrastructure&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;AWS:&lt;/strong&gt; S3, Glue, Lambda, Redshift, Kinesis, EMR, Athena, DMS, SNS, SQS, EventBridge&lt;/p&gt;
+&lt;h3 id=&#34;-data-warehousing--transformation&#34;&gt;❄️ Data Warehousing &amp;amp; Transformation&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Snowflake:&lt;/strong&gt; Snowpark, Performance Tuning, RBAC&lt;br&gt;
+&lt;strong&gt;dbt:&lt;/strong&gt; Modeling, Testing, Documentation&lt;br&gt;
+&lt;strong&gt;Languages:&lt;/strong&gt; PySpark, Python (Pandas/Pydantic), Advanced SQL&lt;/p&gt;
+&lt;h3 id=&#34;-tools--orchestration&#34;&gt;⚙️ Tools &amp;amp; Orchestration&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Orchestration:&lt;/strong&gt; Apache Airflow (MWAA)&lt;br&gt;
+&lt;strong&gt;IaC:&lt;/strong&gt; Terraform&lt;br&gt;
+&lt;strong&gt;CI/CD:&lt;/strong&gt; GitHub Actions&lt;/p&gt;
+&lt;h3 id=&#34;-core-concepts&#34;&gt;🏗️ Core Concepts&lt;/h3&gt;
+&lt;p&gt;Medallion Architecture | ETL/ELT Pipelines | Real-Time &amp;amp; Batch Processing | Data Migration | Fault-Tolerant Design&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

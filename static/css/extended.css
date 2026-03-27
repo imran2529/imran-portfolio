@@ -1,0 +1,106 @@
+/* 1. THE FULL BACKGROUND WRAPPER */
+html, body {
+    margin: 0;
+    padding: 0;
+    background: 
+        linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), 
+        url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2672&auto=format&fit=crop") no-repeat center center fixed !important;
+    background-size: cover !important;
+    background-color: #0f172a !important;
+}
+
+/* 2. THEME COLOR VARIABLES */
+:root {
+    --primary: #0f172a !important;   
+    --secondary: #334155 !important; 
+    --content: #1e293b !important;   
+}
+
+/* 3. NAVIGATION & LOGO */
+.nav a, .logo a {
+    color: #ffffff !important;
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+    font-weight: 700 !important;
+}
+
+/* 4. THE FIX FOR THE "WEIRD BOX" */
+/* We make the main container transparent so it doesn't create a double-box on the home page */
+.main {
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px !important;
+}
+
+/* 5. THE 3D GLASS CARD (HOME PAGE) */
+.profile_inner {
+    background: rgba(255, 255, 255, 0.85) !important; 
+    backdrop-filter: blur(25px) saturate(160%) !important;
+    -webkit-backdrop-filter: blur(25px) saturate(160%);
+    border: 1px solid rgba(255, 255, 255, 0.9) !important;
+    border-radius: 40px !important;
+    padding: 50px 60px !important;
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.2) !important;
+    margin: 40px auto !important;
+}
+
+/* 6. SUB-PAGE READABILITY FIX (PROJECTS/POSTS) */
+/* This only applies the white box to actual articles so they stay readable */
+.post-single, .post-content {
+    background: rgba(255, 255, 255, 0.9) !important;
+    padding: 40px !important;
+    border-radius: 20px;
+    color: #0f172a !important;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+/* 7. THE GRADIENT NAME */
+.profile_inner h1 {
+    font-size: 3.8rem !important;
+    font-weight: 800 !important;
+    background: linear-gradient(135deg, #f97316 0%, #c2410c 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    margin-bottom: 20px !important;
+}
+
+/* 8. BUTTONS - PREMIUM PILL LOOK */
+.profileMode-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 25px !important;
+}
+
+.profileMode-button {
+    background: #ffffff !important;
+    color: #0f172a !important;
+    padding: 12px 30px !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 50px !important;
+    font-weight: 700 !important;
+    text-decoration: none !important;
+    transition: all 0.3s cubic-bezier(0.2, 0.8, 0.2, 1) !important;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05) !important;
+}
+
+.profileMode-button:hover {
+    background: #f97316 !important;
+    color: #ffffff !important;
+    transform: translateY(-4px) !important;
+    box-shadow: 0 12px 24px rgba(249, 115, 22, 0.3) !important;
+}
+
+/* 9. SOCIALS & PROFILE IMAGE */
+.profile_inner img {
+    border-radius: 50% !important;
+    border: 4px solid #f97316 !important;
+    margin-bottom: 20px !important;
+}
+
+.social-icons a {
+    color: #475569 !important;
+    font-size: 26px !important;
+}

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Imran Syed Portfolio</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Imran Syed Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS S3</title>
+      <link>//localhost:1313/tags/aws-s3/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/aws-s3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Modeling</title>
+      <link>//localhost:1313/tags/data-modeling/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/data-modeling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dbt</title>
+      <link>//localhost:1313/tags/dbt/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/dbt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pydantic</title>
+      <link>//localhost:1313/tags/pydantic/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pydantic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snowflake</title>
+      <link>//localhost:1313/tags/snowflake/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/snowflake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snowpipe</title>
+      <link>//localhost:1313/tags/snowpipe/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/snowpipe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Airflow</title>
+      <link>//localhost:1313/tags/airflow/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/airflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS Glue</title>
+      <link>//localhost:1313/tags/aws-glue/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/aws-glue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS Kinesis</title>
+      <link>//localhost:1313/tags/aws-kinesis/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/aws-kinesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PySpark</title>
+      <link>//localhost:1313/tags/pyspark/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pyspark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redshift</title>
+      <link>//localhost:1313/tags/redshift/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/redshift/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>//localhost:1313/tags/automation/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandas</title>
+      <link>//localhost:1313/tags/pandas/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pandas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/tags/python/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snowpark</title>
+      <link>//localhost:1313/tags/snowpark/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/snowpark/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

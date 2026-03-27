@@ -1,0 +1,54 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Imran Syed Portfolio'
+theme = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # This allows the <br> tags to work
+
+[params]
+    defaultTheme = "light"
+    disableThemeToggle = true
+    showCodeCopyButtons = true
+    customCSS = ["css/extended.css"]
+    displayFullContent = false
+    assets = { disableFingerprinting = true }
+   
+   
+
+    [params.profileMode]
+        enabled = true
+        title = "Imran Syed"
+        subtitle = "🚀 **AWS Data Engineer** | 2+ Years Experience <br><br> Specializing in **PySpark, Snowflake, and dbt**. <br> • Orchestrating **500M+ records** daily <br> • Expert in **Medallion Architecture** <br> • **70% Optimization** in Snowflake query performance <br> • **90% Reduction** in manual validation via Snowpark"
+        imageUrl = "/images/profile.png" 
+        imageWidth = 120
+        imageHeight = 120
+        
+        [[params.profileMode.buttons]]
+            name = "Explore Projects"
+            url = "/projects/"
+        [[params.profileMode.buttons]]
+            name = "Technical Skills"
+            url = "/about/"
+
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/imran-syed-nitw" 
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/imran2529?tab=repositories"
+    [[params.socialIcons]]
+        name = "email"
+        url = "mailto:imransyed14347@gmail.com"
+
+[[menu.main]]
+    name = "Skills"
+    url = "/about/"
+    weight = 5
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 10

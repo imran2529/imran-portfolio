@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Data Engineering on Imran Syed Portfolio</title>
+    <link>//localhost:1313/categories/data-engineering/</link>
+    <description>Recent content in Data Engineering on Imran Syed Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enterprise Data Platform: Snowflake &amp; Medallion Architecture</title>
+      <link>//localhost:1313/projects/medallion-pipeline/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/medallion-pipeline/</guid>
+      <description>Architecting a high-throughput migration and transformation engine for 500M&#43; daily records.</description>
+    </item>
+    <item>
+      <title>Real-Time Event-Driven Data Pipeline</title>
+      <link>//localhost:1313/projects/aws-pipeline/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/aws-pipeline/</guid>
+      <description>Architecting a high-scale Kinesis-to-Redshift streaming pipeline for a US E-commerce client.</description>
+    </item>
+    <item>
+      <title>Automated Data Quality Framework (Snowpark)</title>
+      <link>//localhost:1313/projects/automation/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/automation/</guid>
+      <description>Engineering a Python-native validation engine to replace manual SQL audits.</description>
+    </item>
+  </channel>
+</rss>
